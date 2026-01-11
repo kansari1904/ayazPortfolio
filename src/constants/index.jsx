@@ -1,10 +1,9 @@
-import project1 from "../assets/project1.webp";
-import project2 from "../assets/project2.webp";
-import project3 from "../assets/project3.webp";
-import project4 from "../assets/project4.webp";
-import project5 from "../assets/project5.webp";
-import project6 from "../assets/project6.webp";
-import personImage from "../assets/testimonial.webp";
+import project1 from "../assets/project1.jpeg";
+import project2 from "../assets/project2.jpeg";
+import project3 from "../assets/project3.jpeg";
+import project4 from "../assets/project4.jpeg";
+
+import personImage from "../assets/testimonial.jpeg";
 
 import {
   RiJavaLine,
@@ -51,7 +50,7 @@ export const PROJECTS = [
     description:
       "A comprehensive redesign of the Meesho app, focusing on enhancing user experience and interface design.",
     techStack: ["Figma", "Adobe XD", "ChatGPT"],
-    imgSrc: project4,
+    imgSrc: project2,
     link: "https://www.figma.com/design/yzGLsV1avm8sIjgKiFCDKJ/Meesho-Re-Design?node-id=0-1&t=RdgDPjztbODN6DRK-1",
   },
   {
@@ -69,7 +68,7 @@ export const PROJECTS = [
     description:
       "A platform for pizza enthusiasts to explore recipes, order ingredients, and share their culinary creations. The design emphasizes a vibrant and engaging user experience.",
     techStack: ["Figma"],
-    imgSrc: project2,
+    imgSrc: project4,
     link: "https://www.figma.com/design/d2chTJ7gccGTSsiOlFyBWw/Pizza-Web-Design?node-id=0-1&t=mchYLLVdRydG8dt4-1",
   },
  
