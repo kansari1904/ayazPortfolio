@@ -73,7 +73,7 @@ const Hero = () => {
       </span>
       <RiArrowRightUpLine />
       </a>
-      <img src={ayaz} alt={PROFILE.name} width={500} height="400" className='hero-img rounded-3xl border border-purple-300/20 p-1' />
+      <img src={ayaz} alt={PROFILE.name} width={500} height="400" className='hero-img rounded-3xl border border-white p-1' />
 
     </section>
   )
