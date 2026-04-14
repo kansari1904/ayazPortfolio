@@ -15,10 +15,10 @@ const App = () => {
         <div className='relative z-10'>
           <Navbar />
           <Hero />
-          <Projects />
+          <Education />
           <Skills />
           <Experience />
-          <Education />
+          <Projects />
           <Testimonials />
           <Contact />
         </div>

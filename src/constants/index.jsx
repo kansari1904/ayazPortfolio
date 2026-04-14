@@ -42,7 +42,7 @@ export const PROJECTS = [
       "TaalTub is a comprehensive platform that brings together music, video, and radio streaming into a single, seamless experience. Users can explore a vast library of content, create personalized playlists, and enjoy high-quality streaming across all devices.",
     techStack: ["Figma", "Adobe XD", "Adobe Illustrator", "ChatGPT"],
     imgSrc: project1,
-    link: "https://www.figma.com/design/Ty7hYOKcC86Tr3Cc29pS8W/TaalTub-App-Design?node-id=0-1&t=ESSYnSK2wROtijxk-1",
+    link: "https://embed.figma.com/proto/Ty7hYOKcC86Tr3Cc29pS8W/TaalTub-App-Design?page-id=0%3A1&node-id=466-159&p=f&viewport=362%2C113%2C0.03&scaling=scale-down-width&content-scaling=fixed&embed-host=share",
   },
   {
     id: 2,
@@ -51,7 +51,7 @@ export const PROJECTS = [
       "A comprehensive redesign of the Meesho app, focusing on enhancing user experience and interface design.",
     techStack: ["Figma", "Adobe XD", "ChatGPT"],
     imgSrc: project2,
-    link: "https://www.figma.com/design/yzGLsV1avm8sIjgKiFCDKJ/Meesho-Re-Design?node-id=0-1&t=RdgDPjztbODN6DRK-1",
+    link: "https://embed.figma.com/proto/yzGLsV1avm8sIjgKiFCDKJ/Meesho-Re-Design?page-id=0%3A1&node-id=1-8&viewport=90%2C89%2C0.28&scaling=scale-down-width&content-scaling=fixed&embed-host=share",
   },
   {
     id: 3,
@@ -60,7 +60,7 @@ export const PROJECTS = [
       "A web platform designed to help Members of Parliament track budgets and monitor fund expenses with clarity and transparency. The interface focuses on simple navigation, clear data visualization, and easy access to financial information.",
     techStack: ["Figma"],
     imgSrc: project3,
-    link: "https://www.figma.com/design/UVLt1UodfdFKxfR1KkHc2D/MP-Lads-Website-Design?node-id=0-1&t=FB4NPr61dSprBJFg-1",
+    link: "https://embed.figma.com/proto/UVLt1UodfdFKxfR1KkHc2D/MP-Lads-Website-Design?page-id=0%3A1&node-id=1-2&p=f&viewport=158%2C94%2C0.26&scaling=scale-down-width&content-scaling=fixed&embed-host=share",
   },
   {
     id: 4,
@@ -69,7 +69,7 @@ export const PROJECTS = [
       "A platform for pizza enthusiasts to explore recipes, order ingredients, and share their culinary creations. The design emphasizes a vibrant and engaging user experience.",
     techStack: ["Figma"],
     imgSrc: project4,
-    link: "https://www.figma.com/design/d2chTJ7gccGTSsiOlFyBWw/Pizza-Web-Design?node-id=0-1&t=mchYLLVdRydG8dt4-1",
+    link: "https://embed.figma.com/proto/d2chTJ7gccGTSsiOlFyBWw/Pizza-Web-Design?page-id=0%3A1&node-id=372-205&p=f&viewport=-4556%2C1346%2C0.34&scaling=scale-down-width&content-scaling=fixed&starting-point-node-id=372%3A205&embed-host=share",
   },
  
 ];
@@ -119,14 +119,15 @@ export const SKILLS = [
 
 export const EXPERIENCES = [
   {
-    yearRange: "Oct 2025 - Present",
+    yearRange: "Aug 2025 - Jan 2026",
     role: "UI/UX Designer",
     company: "YBE Clothing",
     description:
-      "During my UI/UX design internship, I worked on designing responsive and user-friendly websites. I was involved in the complete design process, including user research, wireframing, UI design, and usability improvements. I used multiple design tools to create clean layouts and meaningful user experiences while collaborating with team members to meet project goals.",
-    techStack: ["Figma", "Notion", "ChatGPT"],
+      "Contributed to the end-to-end design of a fashion e-commerce platform, working across the full UX process — from research and ideation to high-fidelity UI and developer handoff. Conducted user research via surveys and interviews to identify pain points and behavioral patterns, translating insights into user flows, wireframes, and interactive prototypes in Figma. Designed high-fidelity screens with emphasis on visual hierarchy, brand consistency, and mobile-first responsiveness. Applied UX heuristics and usability testing to iteratively refine designs, while collaborating with developers to ensure pixel-accurate implementation. Also contributed to building a unified design system that improved workflow efficiency across both design and development teams.",
+    techStack: ["Figma", "Notion", "ChatGPT", "Adobe XD"],
   },
 ];
+
 
 export const EDUCATION = [
   {
